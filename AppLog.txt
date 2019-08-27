@@ -1,0 +1,6 @@
+[09.07.2019 16:27:55]
+Mail was not send error code -1
+
+[09.07.2019 16:28:25]
+Mail was not send error code -1
+
